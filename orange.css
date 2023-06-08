@@ -1,0 +1,32 @@
+mark {
+  background: darkorange;
+  color: #202;
+}
+
+html {
+  background: orange;
+  color: midnightblue;
+}
+
+:any-link {
+  background: orange;
+  color: #404;
+}
+
+.aurora {
+  box-shadow: 1ex 0 1ex 1ex peachpuff;
+}
+
+.aura {
+  background: orangered;
+  color: #404;
+}
+
+:focus {
+  outline-color: #212;
+}
+
+::selection {
+  background: navy;
+  color: orange;
+}
